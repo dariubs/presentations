@@ -1,0 +1,23 @@
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+#start h1{
+    text-align: center;
+    font-size: 2em;
+    margin: 1.5em;
+}
+ 
+#start h3,#start h4{
+    text-align: center;
+}
+
+#start img{
+    display: block;
+    width: 80%;
+    margin: 2em auto; 
+}
+
+
+
